@@ -1,0 +1,1 @@
+Folder for storing all vectorized 3D representations.

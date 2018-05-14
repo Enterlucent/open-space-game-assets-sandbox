@@ -1,0 +1,1 @@
+Folder for sounds files that run at specific times to denote an event in the game.

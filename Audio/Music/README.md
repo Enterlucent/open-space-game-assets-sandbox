@@ -1,0 +1,1 @@
+Folder for sounds files that run in the background continuously or atmospherically.
