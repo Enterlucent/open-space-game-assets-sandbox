@@ -1,0 +1,1 @@
+Folder for storing all Unity "Shuriken" particle system assets

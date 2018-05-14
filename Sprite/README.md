@@ -1,0 +1,1 @@
+Folder for all 2D assets that appear on the screen surface (but also billboards and other 2D elements within the 3D runtime).

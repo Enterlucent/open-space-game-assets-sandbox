@@ -1,0 +1,1 @@
+Folder for all image files associated to models and materials.

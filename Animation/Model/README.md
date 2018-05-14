@@ -1,0 +1,1 @@
+Folder for animations that will only effect a model's skeleton.

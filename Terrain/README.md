@@ -1,0 +1,1 @@
+Storage for HightMaps to be used for Unity Scene terrain.
